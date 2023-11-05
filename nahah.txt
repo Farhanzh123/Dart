@@ -1,0 +1,10 @@
+menentukan bilangan ganjil atau genap 
+input: angka
+output bilangan a adalah ganjil
+bilangan b adalah genap
+
+1.memasukan nilai angka integer A
+2.kita modulus bilangan a dengan angka 2
+3.cek jika hasil modulus 0 maka bilangan a adalah bilangan genap
+4.selain hasil itu bilangan a adalah bilangan ganjil
+

@@ -1,0 +1,6 @@
+httpsgithub.comProgammerZamanNowNelajar-dart-dasarblobmastertan
+
+
+pengeluaran(jeneng) 1:diinputkan
+jumlah index
+print total: langsung semua
