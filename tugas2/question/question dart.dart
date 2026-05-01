@@ -29,5 +29,5 @@ void main() {
   n2 = temp;
 
   print('sesudah di tukar ');
-  print('number 1 adalah $n1 dan number 2 adalah $n2 \n');
+  print('number 1 sekarang adalah $n1 dan number 2 sekarang adalah $n2 \n');
 }
