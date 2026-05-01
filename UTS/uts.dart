@@ -24,6 +24,6 @@ void main() {
     var bagi = bil1 / bil2;
     print("hasil perhitungan : $bagi");
   } else {
-    print("yang dimasukkan bukan termasuk operator matematika");
+    print("yang anda masukkan bukan masuk bagian dari operator matematika");
   }
 }
