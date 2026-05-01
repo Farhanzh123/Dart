@@ -39,5 +39,5 @@ void main() {
 
   // Menampilkan hasil
   print('Kembalian uang anda Rp $Kembalian \n');
-  print('Terimakasih telah membeli wine dari kami \n');
+  print('Terimakasih telah membeli wine dari kami dan sampai jumpa kembali \n');
 }
