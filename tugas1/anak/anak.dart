@@ -7,14 +7,14 @@ void main() {
   String? name = stdin.readLineSync();
 
   //masukan anak keberapa anda//
-  stdout.write('anak keberapa : ');
+  stdout.write('anda anak keberapa : ');
   int? n1 = int.parse(stdin.readLineSync()!);
 
   //masukan jumlah saudara anda//
-  stdout.write('jumlah saudara : ');
+  stdout.write('anda jumlah saudara : ');
   int? n2 = int.parse(stdin.readLineSync()!);
 
   //gabungan dari semua//
-  stdout.write("Nama saya adalah $name! \n");
-  stdout.write("Saya anak $n1 dari $n2 bersaudara \n");
+  stdout.write("Nama anda adalah $name! \n");
+  stdout.write("anda anak $n1 dari $n2 bersaudara \n");
 }
