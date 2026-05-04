@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  print("");
+  print("nya");
   print('helloword\n ');
   print('Menu\n');
   print('Wine Rp5000');
