@@ -5,7 +5,7 @@ void main() {
   int? order;
 
   while (!bener) {
-    stdout.write('Masukan berapa order :');
+    stdout.write('Masukan orderan anda:');
     var inputorder = stdin.readLineSync()!;
 
     try {
