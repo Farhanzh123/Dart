@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  stdout.write('Masukkan nama karyawan: ');
+  stdout.write('Masukkan nama pegawai: ');
   String? nama = stdin.readLineSync();
   stdout.write('Masukkan jumlah jam kerja dalam seminggu: ');
   var jumlahJamKerja = double.parse(stdin.readLineSync()!);
