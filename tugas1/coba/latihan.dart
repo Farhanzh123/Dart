@@ -140,7 +140,7 @@ void main() {
 
   print("\nlist nama kolom3:");
   print(kolom3);
-  print("Jumlah Index : ${kolom3.length}");
+  print("Total Index : ${kolom3.length}");
 
   int jumlah = 0;
   for (String length in kolom3) {
