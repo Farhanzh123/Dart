@@ -5,7 +5,7 @@ void main() {
   print('helloword \n');
 
   print('Menu \n');
-  print('Wine (arak) Rp5000 \n');
+  print('Wine (arak bali) Rp5000 \n');
 
   // Meminta pengguna memasukkan angka pertama
   stdout.write('Masukkan berapa order: ');
