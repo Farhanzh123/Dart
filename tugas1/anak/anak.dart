@@ -3,7 +3,7 @@ import 'dart:io';
 void main() {
   print("");
   //masukan nama anda//
-  print('nama anda : ');
+  print('masukkan nama anda : ');
   String? name = stdin.readLineSync();
 
   //masukan anak keberapa anda//
