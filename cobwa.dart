@@ -13,5 +13,5 @@ void main() {
 
   stdout.writeln("hello,");
   stdout.writeln("world!");
-  stdout.writeln("kasih paham boss!!!");
+  stdout.writeln("kasih paham boss!!! anjaay");
 }
