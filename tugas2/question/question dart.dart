@@ -17,7 +17,7 @@ void main() {
 
       bener = true;
     } catch (e) {
-      print('Input bukan angka. Coba lagi.');
+      print('yang anda masukkan bukan angka. Coba lagi.');
     }
   }
   print('');
