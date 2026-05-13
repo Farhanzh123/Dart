@@ -9,6 +9,6 @@ void main() {
 
   int tagihanorang = total ~/ teman;
 
-  print('jumlah teman anda $teman total tagihan anda Rp$total ');
-  print('jadi total tagihan perorangan Rp$tagihanorang \n');
+  print('jumlah teman anda $teman jumlah tagihan anda Rp$total ');
+  print('jadi jumlah tagihan perorangan Rp$tagihanorang \n');
 }
