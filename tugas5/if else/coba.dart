@@ -3,7 +3,7 @@ void main() {
   var absen = 0;
 
   if (nilai >= 80 && absen >= 80) {
-    print("Nilai Anda A");
+    print("Nilai Anda A = Baguss");
   } else if (nilai >= 70 && absen >= 70) {
     print("Nilai Anda B");
   } else if (nilai >= 60 && absen >= 60) {
